@@ -1,0 +1,8 @@
+1. The main file that is ued to run all the files and predict the output is ((app.py)).
+2. in the 'app.py' file search for 'while true' for loop and notify what code runs.
+3. continue after the while true loop and all things are going to be understanded 
+4. Training mode: 
+	(1) Add the additional label in the labels file
+	(2) start the program
+	(3) press 'k' to enter the training mode
+	(4) Make the sign you want and while you making it press '4'
